@@ -21,7 +21,7 @@ numInput.addEventListener("input", (e) => {
 
   //   Looping through the Mtn Number Format and Checking if it matches with the user number
   Mtn_3_Format.forEach((num) => {
-    if (userNumber == num && userNumber.length === 11) {
+    if (userNumber == num) {
       logo.src = "/images/mtn.png";
       logo.style.display = "flex";
       text.style.display = "none";
