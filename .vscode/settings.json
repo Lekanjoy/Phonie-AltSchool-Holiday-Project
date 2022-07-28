@@ -1,0 +1,5 @@
+{
+  "workbench.statusBar.visible": true,
+  "notebook.showCellStatusBar": "hidden",
+  "colorize.decoration_type": "background"
+}
