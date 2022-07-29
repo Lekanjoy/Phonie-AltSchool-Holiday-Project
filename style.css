@@ -72,6 +72,8 @@ strong{
     font-weight: 500;
     top: 4px;
     display: none;
+    user-select: none;
+    cursor: help;
 }
 
 h1{
